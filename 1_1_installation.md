@@ -23,4 +23,3 @@ $ rustup update
 ```bash
 $ rustup self uninstall
 ```
-

@@ -1,0 +1,1 @@
+/home/tommy/codebase/learn-rust/3_common_programming_concepts/3_1_variables_and_mutability/variables/target/debug/variables: /home/tommy/codebase/learn-rust/3_common_programming_concepts/3_1_variables_and_mutability/variables/src/main.rs
