@@ -51,3 +51,29 @@ Rust has two primitive compound types: tuples and arrays.
 ### The Tuple Type
 
 Tuples have a foxed length: once declared, they cannot grow or shrink in size.
+
+To get the individual values out of a tuple, we can use pattern matching to destructure a tuple value.
+We can also access a tuple element directly by using a period (```.```) followed by the index of the value we want to access.
+
+The tuple without any values  has a special name, unit.
+This value and its corresponding type are both written ```()``` and represent an empty value or an empty return type.
+Expressions implicitly return the unit value if they don't return any other value.
+
+### The Array Type
+
+Unlike a tuple, every element of an array must have the same type.
+
+Unlike arrays in some other languages, arrays in Rust have a fixed length.
+
+Arrays are useful when you want your data allocated on the stack rather than the heap.
+
+#### Accessing Array Elements
+
+An array is a single chunk of memory of a known, fixed size that can be allocated on the stack.
+
+YOu can access elements of an array using indexing.
+
+#### Invalid Array Element Access
+
+When you attempt to access an element using indexing, Rust will check that the index you've specified is less than the array length.
+If the index is greater than or equal to the length, Rust will panic.
