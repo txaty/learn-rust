@@ -16,4 +16,7 @@ Content:
    2. [Data types](3_2_data_types.md)
    3. [Functions](3_3_functions.md)
    4. [Comments](3_4_comments.md)
+   5. [Control Flow](3_5_control_flow.md)
+4. Ownership
+   1. [What is Ownership](4_1_what_is_ownership.md)
   
