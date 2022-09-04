@@ -19,4 +19,5 @@ Content:
    5. [Control Flow](3_5_control_flow.md)
 4. Ownership
    1. [What is Ownership](4_1_what_is_ownership.md)
+   2. [References and Borrowing](4_2_references_and_borrowing.md)
   
