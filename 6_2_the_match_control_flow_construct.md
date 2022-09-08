@@ -63,3 +63,27 @@ fn value_in_cents(coin: Coin) -> u8 {
 
 Instead of comparing coins, we'll compare the variants of ```Option<T>```, but the way that the ```match``` expression works remain the same.
 
+```rust
+fn plus_one(x: Option<i32>) -> Option<i32> {
+    match x {
+        None => None,
+        Some(i) => Some(i + 1),
+    }
+}
+
+let five = Some(5);
+let six = plus_one(five);
+let none = plus_one(None);
+```
+
+```match``` against an enum, bind a variable to the data inside, and then execute code based on it.
+
+## Matches Are Exhaustive
+
+Matches in Rust are exhaustive: we must exhaust every last possibility in order for the code to be valid.
+
+## Catch-all Patterns and the _ Placeholder
+
+Catch-all pattern meets the requirement that ```match``` must be exhaustive.
+We have to put the catch-all arm last because the patterns are evaluated in order.
+```_``` is a special pattern that matches any value and does not bind to that value.
