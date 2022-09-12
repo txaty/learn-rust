@@ -25,4 +25,10 @@ Content:
    1. [Defining and Instantiating Structs](5_1_defining_and_instantiating_structs.md)
    2. An Example Program Using Structs
    3. [Method Syntax](5_2_method_syntax.md)
+6. Enums and Pattern Matching
+   1. [Defining an Enum](6_1_defining_an_enum.md)
+   2. [The Match Control Flow Construct](6_2_the_match_control_flow_construct.md)
+   3. [Concise Control Flow with if let](6_3_concise_control_flow_with_if_let.md)
+7. Managing Growing Projects with Packages, Crates, and Modules
+   1. [Packages and Crates](7_1_packages_and_crates.md)
   
