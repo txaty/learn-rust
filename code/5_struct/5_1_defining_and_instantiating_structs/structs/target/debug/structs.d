@@ -1,1 +1,0 @@
-/workspaces/learn-rust/code/5_struct/5_1_defining_and_instantiating_structs/structs/target/debug/structs: /workspaces/learn-rust/code/5_struct/5_1_defining_and_instantiating_structs/structs/src/main.rs

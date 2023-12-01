@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Appendix A - Keywords.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "bd3efc7c94a6eb51",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appendix A - Keywords.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appendix A - Keywords.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appendix A - Keywords.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8fcbd8ba2306949",
+  "active": "f8c1edff9d22f183",
   "lastOpenFiles": [
-    "3.1 Variables and Mutability.md",
     "Appendix A - Keywords.md",
+    "README.md",
+    "3.1 Variables and Mutability.md",
     "2 Guessing Game.md",
     "code/2_guessing_game/guessing_game/target/debug/incremental/guessing_game-5ecjanli6sn0/s-gr3nchsszo-1ba66xl-21cqwrk2goohdk0yt6s3r4kpq/work-products.bin",
     "code/2_guessing_game/guessing_game/target/debug/incremental/guessing_game-5ecjanli6sn0/s-gr3nchsszo-1ba66xl-21cqwrk2goohdk0yt6s3r4kpq/query-cache.bin",
@@ -184,7 +184,6 @@
     "3.4 Comments.md",
     "3.3 Functions.md",
     "6.3 Concise Control Flow with if else.md",
-    "7.5 Separate Modules into Different Files.md",
-    "README.md"
+    "7.5 Separate Modules into Different Files.md"
   ]
 }
