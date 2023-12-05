@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "0b64dba6e599bdfe",
+    "id": "79fb0bafb63c1f87",
     "type": "split",
     "children": [
       {
-        "id": "ba53fa231461d430",
+        "id": "75b9e3eeb81008db",
         "type": "tabs",
         "children": [
           {
-            "id": "defb386d303ebe39",
+            "id": "49ffdecc2bfc242c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.4 The Slice Type.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17461dc4c1021885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.5 Ownership Recap.md",
+                "file": "6.1 Defining an Enum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d8e995f31a19bbe5",
+    "id": "7a7bff2fba665958",
     "type": "split",
     "children": [
       {
-        "id": "e7f8e68ef9ee3ea4",
+        "id": "16ed74ad9332843d",
         "type": "tabs",
         "children": [
           {
-            "id": "18455a04b66996e3",
+            "id": "2331324b2f948294",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "0efdcd6080f33efa",
+            "id": "4d70d98fdac847fb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "41f05aa5047bd2aa",
+            "id": "b3b713251bc419d7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a03c8ac6bfc18abd",
+    "id": "64a4e232d6c429da",
     "type": "split",
     "children": [
       {
-        "id": "962c2726ff35d609",
+        "id": "3277ae2ec7700ead",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb74899938feb77",
+            "id": "9fe83f5177346561",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.5 Ownership Recap.md",
+                "file": "6.1 Defining an Enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "43947996c01facff",
+            "id": "0e4f8e36a7cd6315",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.5 Ownership Recap.md",
+                "file": "6.1 Defining an Enum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "57140fa5e3584a3a",
+            "id": "60da6abf028fc15b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "0e5ea60a32049c2d",
+            "id": "f4e11db4f1ae730b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.5 Ownership Recap.md"
+                "file": "6.1 Defining an Enum.md"
               }
             }
           }
@@ -159,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17461dc4c1021885",
+  "active": "49ffdecc2bfc242c",
   "lastOpenFiles": [
-    "4.4 The Slice Type.md",
-    "4.5 Ownership Recap.md",
-    "4.3 Fixing Ownership Errors.md"
+    "6.2 The match Control Flow Construct.md",
+    "6.1 Defining an Enum.md",
+    "5.3 Method Syntax.md",
+    "7.5 Separate Modules into Different Files.md",
+    "Appendix A - Keywords.md",
+    "README.md"
   ]
 }
