@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0b64dba6e599bdfe",
+    "id": "7d480c49f34717b0",
     "type": "split",
     "children": [
       {
-        "id": "ba53fa231461d430",
+        "id": "1fdd5ea6cde7179c",
         "type": "tabs",
         "children": [
           {
-            "id": "defb386d303ebe39",
+            "id": "8efc08d0965356e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,35 +18,22 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "17461dc4c1021885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.5 Ownership Recap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d8e995f31a19bbe5",
+    "id": "de211366f43d74ad",
     "type": "split",
     "children": [
       {
-        "id": "e7f8e68ef9ee3ea4",
+        "id": "958ed8d111636ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "18455a04b66996e3",
+            "id": "b467f8014eea4234",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "0efdcd6080f33efa",
+            "id": "03f4d9f5faf69f06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "41f05aa5047bd2aa",
+            "id": "3132b76713c7580a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a03c8ac6bfc18abd",
+    "id": "e9dae9677e6382b5",
     "type": "split",
     "children": [
       {
-        "id": "962c2726ff35d609",
+        "id": "c2e3db5d6508c7bd",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb74899938feb77",
+            "id": "da9d05c0777940aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.5 Ownership Recap.md",
+                "file": "4.4 The Slice Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "43947996c01facff",
+            "id": "5a5ab9edd4457668",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.5 Ownership Recap.md",
+                "file": "4.4 The Slice Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "57140fa5e3584a3a",
+            "id": "882c1080597185c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "0e5ea60a32049c2d",
+            "id": "929271f6bbe0cdf2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.5 Ownership Recap.md"
+                "file": "4.4 The Slice Type.md"
               }
             }
           }
@@ -159,10 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17461dc4c1021885",
-  "lastOpenFiles": [
-    "4.4 The Slice Type.md",
-    "4.5 Ownership Recap.md",
-    "4.3 Fixing Ownership Errors.md"
-  ]
+  "active": "8efc08d0965356e9",
+  "lastOpenFiles": []
 }
