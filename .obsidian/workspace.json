@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "928187eb61fe969a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 Common Collections.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85b61b67ff9bbe35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8.1 Storing Lists of Values with Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 226.5
   },
   "right": {
     "id": "a03c8ac6bfc18abd",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.5 Separate Modules into Different Files.md",
+                "file": "8.1 Storing Lists of Values with Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.5 Separate Modules into Different Files.md",
+                "file": "8.1 Storing Lists of Values with Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.5 Separate Modules into Different Files.md"
+                "file": "8.1 Storing Lists of Values with Vectors.md"
               }
             }
           }
@@ -147,8 +172,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "068e90e7cc0277c7",
+  "active": "85b61b67ff9bbe35",
   "lastOpenFiles": [
+    "7.5 Separate Modules into Different Files.md",
+    "8 Common Collections.md",
+    "8.1 Storing Lists of Values with Vectors.md",
+    "Appendix A - Keywords.md",
     "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h/work-products.bin",
     "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h/query-cache.bin",
     "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h/dep-graph.bin",
@@ -159,11 +188,9 @@
     "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez-2qye34knghw5y9l9uincet0rv",
     "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc.lock",
     "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez.lock",
-    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955srdxk-1um2hsw-working/work-products.bin",
     "7.4 Bringing Paths into Scope with the use Keyword.md",
     "7.3 Paths for Referring to an Item in the Module Tree.md",
     "7.2 Defining Modules to Control Scope and Privacy.md",
-    "7.5 Separate Modules into Different Files.md",
     "7.1 Packages and Crates.md",
     "7 Managing Growing Projects with Packages, Crates, and Modules.md",
     "README.md",
