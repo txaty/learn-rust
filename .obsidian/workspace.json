@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "79fb0bafb63c1f87",
+    "id": "0b64dba6e599bdfe",
     "type": "split",
     "children": [
       {
-        "id": "75b9e3eeb81008db",
+        "id": "63bc155b08e00396",
         "type": "tabs",
         "children": [
           {
-            "id": "49ffdecc2bfc242c",
+            "id": "d12329172529f82f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.2 The match Control Flow Construct.md",
+                "file": "6.1 Defining an Enum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "068e90e7cc0277c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7.1 Packages and Crates.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7a7bff2fba665958",
+    "id": "d8e995f31a19bbe5",
     "type": "split",
     "children": [
       {
-        "id": "16ed74ad9332843d",
+        "id": "e7f8e68ef9ee3ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "2331324b2f948294",
+            "id": "18455a04b66996e3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "4d70d98fdac847fb",
+            "id": "0efdcd6080f33efa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "b3b713251bc419d7",
+            "id": "41f05aa5047bd2aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "64a4e232d6c429da",
+    "id": "a03c8ac6bfc18abd",
     "type": "split",
     "children": [
       {
-        "id": "3277ae2ec7700ead",
+        "id": "962c2726ff35d609",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe83f5177346561",
+            "id": "1eb74899938feb77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.2 The match Control Flow Construct.md",
+                "file": "7.1 Packages and Crates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "0e4f8e36a7cd6315",
+            "id": "43947996c01facff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.2 The match Control Flow Construct.md",
+                "file": "7.1 Packages and Crates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "60da6abf028fc15b",
+            "id": "57140fa5e3584a3a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "f4e11db4f1ae730b",
+            "id": "0e5ea60a32049c2d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.2 The match Control Flow Construct.md"
+                "file": "7.1 Packages and Crates.md"
               }
             }
           }
@@ -146,13 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49ffdecc2bfc242c",
+  "active": "068e90e7cc0277c7",
   "lastOpenFiles": [
+    "7 Managing Growing Projects with Packages, Crates, and Modules.md",
     "6.1 Defining an Enum.md",
     "6.2 The match Control Flow Construct.md",
+    "6.3 Concise Control Flow with if else.md",
+    "7.1 Packages and Crates.md",
     "5.3 Method Syntax.md",
-    "7.5 Separate Modules into Different Files.md",
-    "Appendix A - Keywords.md",
-    "README.md"
+    "4.5 Ownership Recap.md",
+    "4.4 The Slice Type.md",
+    "4.3 Fixing Ownership Errors.md",
+    "4.2 References and Borrowing.md",
+    "5.1 Defining and Instantiating Structs.md",
+    "5.2 An Example Program Using Structs.md",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/deps/rectangles-e7943a2d8d75eb99",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/work-products.bin",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/query-cache.bin",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/dep-graph.bin",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/507hahmni7wnrwk1.o",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/4snuarlp8r3ybzb8.o",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/4fzx8bipl9l8zqxl.o",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/48e22pomf30y9hyy.o",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/42su3mtl83khibzr.o",
+    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/33jdfn7g6y6f5r1m.o"
   ]
 }
