@@ -149,9 +149,9 @@
   },
   "active": "068e90e7cc0277c7",
   "lastOpenFiles": [
-    "7.2 Defining Modules to Control Scope and Privacy.md",
-    "7.3 Paths for Referring to an Item in the Module Tree.md",
     "7.4 Bringing Paths into Scope with the use Keyword.md",
+    "7.3 Paths for Referring to an Item in the Module Tree.md",
+    "7.2 Defining Modules to Control Scope and Privacy.md",
     "7.5 Separate Modules into Different Files.md",
     "7.1 Packages and Crates.md",
     "7 Managing Growing Projects with Packages, Crates, and Modules.md",
