@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.3 Paths for Referring to an Item in the Module Tree.md",
+                "file": "7.5 Separate Modules into Different Files.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 248.5
   },
   "right": {
     "id": "a03c8ac6bfc18abd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.3 Paths for Referring to an Item in the Module Tree.md",
+                "file": "7.5 Separate Modules into Different Files.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.3 Paths for Referring to an Item in the Module Tree.md",
+                "file": "7.5 Separate Modules into Different Files.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.3 Paths for Referring to an Item in the Module Tree.md"
+                "file": "7.5 Separate Modules into Different Files.md"
               }
             }
           }
@@ -149,6 +149,17 @@
   },
   "active": "068e90e7cc0277c7",
   "lastOpenFiles": [
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h/work-products.bin",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h/query-cache.bin",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h/dep-graph.bin",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc-1rgia4l9mazm24l79kptoqd3h",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez-2qye34knghw5y9l9uincet0rv/work-products.bin",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez-2qye34knghw5y9l9uincet0rv/query-cache.bin",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez-2qye34knghw5y9l9uincet0rv/dep-graph.bin",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez-2qye34knghw5y9l9uincet0rv",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-3bd0hr4jkbgog/s-gr955v0pm9-mukupc.lock",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955v0pmo-2o67ez.lock",
+    "code/7_5_separating_modules_into_different_files/restaurants/target/debug/incremental/restaurants-2eu0kfp2l2xj8/s-gr955srdxk-1um2hsw-working/work-products.bin",
     "7.4 Bringing Paths into Scope with the use Keyword.md",
     "7.3 Paths for Referring to an Item in the Module Tree.md",
     "7.2 Defining Modules to Control Scope and Privacy.md",
@@ -165,16 +176,6 @@
     "4.3 Fixing Ownership Errors.md",
     "4.2 References and Borrowing.md",
     "5.1 Defining and Instantiating Structs.md",
-    "5.2 An Example Program Using Structs.md",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/deps/rectangles-e7943a2d8d75eb99",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/work-products.bin",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/query-cache.bin",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/dep-graph.bin",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/507hahmni7wnrwk1.o",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/4snuarlp8r3ybzb8.o",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/4fzx8bipl9l8zqxl.o",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/48e22pomf30y9hyy.o",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/42su3mtl83khibzr.o",
-    "code/5_struct/5_2_an_example_program_using_structs/rectangles/target/debug/incremental/rectangles-3oyfzfbft8nvf/s-gr7yrpuz8j-15lm0ar-xb29u2qxnjxwvftcczx4d7lb/33jdfn7g6y6f5r1m.o"
+    "5.2 An Example Program Using Structs.md"
   ]
 }
