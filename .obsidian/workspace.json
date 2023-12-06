@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d12329172529f82f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.1 Defining an Enum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "068e90e7cc0277c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.1 Packages and Crates.md",
+                "file": "7.3 Paths for Referring to an Item in the Module Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.1 Packages and Crates.md",
+                "file": "7.3 Paths for Referring to an Item in the Module Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.1 Packages and Crates.md",
+                "file": "7.3 Paths for Referring to an Item in the Module Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.1 Packages and Crates.md"
+                "file": "7.3 Paths for Referring to an Item in the Module Tree.md"
               }
             }
           }
@@ -156,16 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "068e90e7cc0277c7",
   "lastOpenFiles": [
+    "7.2 Defining Modules to Control Scope and Privacy.md",
+    "7.3 Paths for Referring to an Item in the Module Tree.md",
+    "7.4 Bringing Paths into Scope with the use Keyword.md",
+    "7.5 Separate Modules into Different Files.md",
+    "7.1 Packages and Crates.md",
     "7 Managing Growing Projects with Packages, Crates, and Modules.md",
+    "README.md",
     "6.1 Defining an Enum.md",
     "6.2 The match Control Flow Construct.md",
     "6.3 Concise Control Flow with if else.md",
-    "7.1 Packages and Crates.md",
     "5.3 Method Syntax.md",
     "4.5 Ownership Recap.md",
     "4.4 The Slice Type.md",

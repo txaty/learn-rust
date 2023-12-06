@@ -1,5 +1,7 @@
 {
   "accentColor": "#5cbaf5",
-  "theme": "system",
-  "interfaceFontFamily": "Bahnschrift"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Andale Mono",
+  "baseFontSize": 15,
+  "translucency": true
 }
