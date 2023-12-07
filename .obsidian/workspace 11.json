@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75b9e3eeb81008db",
+        "id": "19eb18ed00e21fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "49ffdecc2bfc242c",
+            "id": "01f897034aac3153",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.1 Packages and Crates.md",
+                "file": "8.2 Storing UTF-8 Encoded Text with Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.1 Packages and Crates.md",
+                "file": "8.2 Storing UTF-8 Encoded Text with Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.1 Packages and Crates.md",
+                "file": "8.2 Storing UTF-8 Encoded Text with Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7.1 Packages and Crates.md"
+                "file": "8.2 Storing UTF-8 Encoded Text with Strings.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,14 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49ffdecc2bfc242c",
+  "active": "01f897034aac3153",
   "lastOpenFiles": [
+    "README.md",
+    "8.2 Storing UTF-8 Encoded Text with Strings.md",
+    "8 Common Collections.md",
+    "7.5 Separate Modules into Different Files.md",
+    "8.1 Storing Lists of Values with Vectors.md",
+    "Appendix A - Keywords.md",
+    "7.1 Packages and Crates.md",
     "6.3 Concise Control Flow with if else.md",
     "6.2 The match Control Flow Construct.md",
     "6.1 Defining an Enum.md",
-    "5.3 Method Syntax.md",
-    "7.5 Separate Modules into Different Files.md",
-    "Appendix A - Keywords.md",
-    "README.md"
+    "5.3 Method Syntax.md"
   ]
 }
