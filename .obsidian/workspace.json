@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ac435efb98eb009",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d495bb62d0bea29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.1 How to Write Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d68143e68b0e99cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11 Writing Automated Tests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10.3 Validating References with Lifetimes.md",
+                "file": "11.1 How to Write Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10.3 Validating References with Lifetimes.md",
+                "file": "11.1 How to Write Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10.3 Validating References with Lifetimes.md"
+                "file": "11.1 How to Write Tests.md"
               }
             }
           }
@@ -148,8 +181,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "18455a04b66996e3",
+  "active": "d495bb62d0bea29b",
   "lastOpenFiles": [
+    "11.1 How to Write Tests.md",
+    "11 Writing Automated Tests.md",
+    "10.3 Validating References with Lifetimes.md",
     "10.1 Generic Data Types.md",
     "10.2 Traits - Defining shared Behavior.md",
     "10 Generic Types, Traits, and Lifetimes.md",
@@ -182,9 +218,6 @@
     "README.md",
     "6.1 Defining an Enum.md",
     "6.2 The match Control Flow Construct.md",
-    "6.3 Concise Control Flow with if else.md",
-    "5.3 Method Syntax.md",
-    "4.5 Ownership Recap.md",
-    "4.4 The Slice Type.md"
+    "6.3 Concise Control Flow with if else.md"
   ]
 }
