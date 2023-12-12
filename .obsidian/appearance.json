@@ -1,7 +1,7 @@
 {
   "accentColor": "#5cbaf5",
-  "theme": "obsidian",
-  "interfaceFontFamily": "Hack Nerd Font Mono",
+  "theme": "system",
+  "interfaceFontFamily": "Maple Mono",
   "baseFontSize": 15,
   "translucency": true
 }
