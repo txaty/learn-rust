@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07178782f849870a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11.3 Test Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.2 Controlling How Tests Are Run.md",
+                "file": "11.3 Test Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.2 Controlling How Tests Are Run.md",
+                "file": "11.3 Test Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11.2 Controlling How Tests Are Run.md"
+                "file": "11.3 Test Organization.md"
               }
             }
           }
@@ -148,9 +161,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2e981d6e8b2cd454",
+  "active": "07178782f849870a",
   "lastOpenFiles": [
     "11.2 Controlling How Tests Are Run.md",
+    "11.3 Test Organization.md",
     "10.3 Validating References with Lifetimes.md",
     "11.1 How to Write Tests.md",
     "11 Writing Automated Tests.md",
@@ -184,7 +198,6 @@
     "7.1 Packages and Crates.md",
     "7 Managing Growing Projects with Packages, Crates, and Modules.md",
     "README.md",
-    "6.1 Defining an Enum.md",
-    "6.2 The match Control Flow Construct.md"
+    "6.1 Defining an Enum.md"
   ]
 }
